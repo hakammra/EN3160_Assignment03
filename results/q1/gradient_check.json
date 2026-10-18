@@ -1,0 +1,17 @@
+{
+  "comparison": "PyTorch autograd on a small batch",
+  "data_type": "float64",
+  "batch_size": 7,
+  "input_size": 5,
+  "hidden_size": 4,
+  "classes": 3,
+  "maximum_absolute_errors": {
+    "w1": 1.0408340855860843e-17,
+    "b1": 1.0408340855860843e-17,
+    "w2": 1.3877787807814457e-17,
+    "b2": 2.7755575615628914e-17
+  },
+  "loss_error": 0.0,
+  "update_reduces_loss": true,
+  "passed": true
+}
