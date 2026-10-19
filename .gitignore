@@ -6,6 +6,8 @@ __pycache__/
 .vscode/
 .idea/
 data/
+results/
+output/
 *.pt
 *.pth
 Notes/
